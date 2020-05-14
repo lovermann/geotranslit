@@ -10,7 +10,7 @@ For example, this script
 ```bash
 julia geotranslit.jl --file letter.txt --mode 2
 ```
-will produce transliterated file __LETTER.TXT__
+will produce file __LETTER.TXT__ with transliterated text (respecting ISO 9984 standard, see below)
 
 # Modes
 Here you can find examples of transliteration using different modes
