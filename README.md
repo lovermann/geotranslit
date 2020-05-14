@@ -1,2 +1,5 @@
-# transliterate_georgian
-Universal transliterator from georgian language into latin and cyrillic
+# Universal transliterator from Georgian language
+Utility provides transliteration of a georgian text into cyrillic and latin letters.
+
+# Usage
+
