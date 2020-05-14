@@ -3,9 +3,14 @@ Utility provides transliteration of a georgian text into cyrillic and latin lett
 
 # Usage
 You should provide a file (.txt format) with text in georgian language and then choose a mode
-```julia
+```bash
 julia geotranslit.jl --file sourcefile.txt --mode number
 ```
+For example, this script
+```bash
+julia geotranslit.jl --file letter.txt --mode 2
+```
+will produce transliterated file __LETTER.TXT__
 
 # Modes
 Here you can find examples of transliteration using different modes
