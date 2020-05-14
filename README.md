@@ -11,4 +11,4 @@ julia geotranslit.jl --file sourcefile.txt --mode number
 |      1     | eng_default       |                              |
 |      2     | eng_ISO_9984      |                              |
 |      3     | ru_custom         |                              |
-|      4     | eng_ISO_9984      |                              |
+|      4     | eng_national      |                              |
