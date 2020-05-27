@@ -105,16 +105,9 @@ function transliterate()
 			end
 		end
 	end
-	
-	
-	
-	
-	
-	
+
 	close(transliterated)
 end
-	
-	
 transliterate()
 	
 
